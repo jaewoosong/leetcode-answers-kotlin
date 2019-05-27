@@ -2,4 +2,5 @@ Problem,Title,Difficulty,Runtime (ms),Runtime faster than (%),Memory (MB),Memory
 1,Two Sum,easy,248,38.85,35.2,100.00
 7,Reverse Integer,easy,140,92.49,31.5,100.00
 9,Palindrome Number,easy,212,89.97,34.5,100.00
+28,Implement strStr(),easy,156,99.15,33.6,100.00
 35,Search Insert Position,easy,168,94.06,36.5,100.00
